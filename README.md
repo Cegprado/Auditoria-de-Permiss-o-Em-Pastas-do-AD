@@ -14,7 +14,7 @@ Automatize a auditoria e a correção de permissões NTFS com este poderoso scri
 
 ```plaintext
 📁 MeuProjeto
- ├── 📄 script.ps1  # Script principal em PowerShell
+ ├── 📄 AuditoriaPermissoes.ps1  # Script principal em PowerShell
  ├── 📄 README.md   # Documentação do projeto
  ├── 📄 exemplo.csv # Exemplo de relatório gerado
 ```
