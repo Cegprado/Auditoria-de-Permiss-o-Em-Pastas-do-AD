@@ -1,0 +1,1 @@
+# Auditoria-de-Permiss-o-Em-Pastas-do-AD
